@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  apples: MyString
+  bananas: MyString
+  milk: MyString
+  creamer: MyString
+
+two:
+  apples: MyString
+  bananas: MyString
+  milk: MyString
+  creamer: MyString
