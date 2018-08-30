@@ -1,4 +1,6 @@
 class Store < ApplicationRecord
+	has_many:inventory
+	has_many:list_category
 	#validations
 
 	#associations
